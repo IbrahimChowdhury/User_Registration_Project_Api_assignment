@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build and Dependency Directories
+dist/
+build/
+coverage/
+.cache/
+
+# Ignore package-lock and yarn.lock (optional)
+package-lock.json
+yarn.lock
